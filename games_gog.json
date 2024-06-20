@@ -1,0 +1,6850 @@
+[
+    {
+        "URL": "https://www.gog.com/en/game/dragon_age_origins",
+        "Name": "Dragon Age\u2122: Origins - Ultimate Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "BioWare",
+            "Electronic Arts"
+        ],
+        "Price": "15.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_witcher",
+        "Name": "The Witcher: Enhanced Edition",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "CD PROJEKT RED"
+        ],
+        "Price": "2.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/beyond_good_and_evil",
+        "Name": "Beyond Good & Evil\u2122",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Ubisoft"
+        ],
+        "Price": "8.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/cyberpunk_2077_phantom_liberty",
+        "Name": "Cyberpunk 2077: Phantom Liberty",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "CD PROJEKT RED"
+        ],
+        "Price": "85.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/titan_quest_anniversary_edition",
+        "Name": "Titan Quest Anniversary Edition",
+        "Genre": [
+            "Role-playing",
+            "Combat",
+            "Fantasy"
+        ],
+        "Companies": [
+            "THQ Nordic, Iron Lore Entertainment",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "3.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/baldurs_gate_2_enhanced_edition",
+        "Name": "Baldur's Gate II: Enhanced Edition",
+        "Genre": [
+            "Role-playing",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Beamdog"
+        ],
+        "Price": "5.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_witcher_3_wild_hunt_game_of_the_year_edition",
+        "Name": "The Witcher 3: Wild Hunt - Complete Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "CD PROJEKT RED"
+        ],
+        "Price": "39.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_witcher_2",
+        "Name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "CD PROJEKT RED"
+        ],
+        "Price": "8.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/cyberpunk_2077",
+        "Name": "Cyberpunk 2077",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "CD PROJEKT RED"
+        ],
+        "Price": "99.98 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/divinity_original_sin_2",
+        "Name": "Divinity: Original Sin 2 - Definitive Edition",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Larian Studios"
+        ],
+        "Price": "27.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/metro_2033_redux",
+        "Name": "Metro 2033 Redux",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "4A Games",
+            "Deep Silver"
+        ],
+        "Price": "9.98 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/baldurs_gate_enhanced_edition",
+        "Name": "Baldur's Gate: Enhanced Edition",
+        "Genre": [
+            "Role-playing",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Beamdog"
+        ],
+        "Price": "9.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/horizon_zero_dawn_complete_edition",
+        "Name": "Horizon Zero Dawn\u2122 Complete Edition",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Guerrilla",
+            "PlayStation PC LLC"
+        ],
+        "Price": "49.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/fallout",
+        "Name": "Fallout",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Interplay",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/lost_words_beyond_the_page",
+        "Name": "Lost Words: Beyond the Page",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Narrative"
+        ],
+        "Companies": [
+            "Sketchbook Games, Fourth State",
+            "Maximum Entertainment"
+        ],
+        "Price": "1.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/divinity_2_developers_cut",
+        "Name": "Divinity 2: Developer's Cut",
+        "Genre": [
+            "Role-playing",
+            "TPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Larian Studios"
+        ],
+        "Price": "3.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/fallout_2",
+        "Name": "Fallout 2",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Interplay",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/system_shock",
+        "Name": "System Shock",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Night Dive Studios",
+            "Prime Matter"
+        ],
+        "Price": "89.50 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_knights_of_the_old_republic",
+        "Name": "STAR WARS\u2122: Knights of the Old Republic",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/hollow_knight",
+        "Name": "Hollow Knight",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Metroidvania"
+        ],
+        "Companies": [
+            "Team Cherry"
+        ],
+        "Price": "23.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/firewatch",
+        "Name": "Firewatch",
+        "Genre": [
+            "Adventure",
+            "Simulation",
+            "Mystery"
+        ],
+        "Companies": [
+            "Campo Santo"
+        ],
+        "Price": "9.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/kane_and_lynch_dead_men",
+        "Name": "Kane and Lynch: Dead Men\u2122",
+        "Genre": [
+            "Action",
+            "TPP"
+        ],
+        "Companies": [
+            "IO Interactive",
+            "Square Enix"
+        ],
+        "Price": "2.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/prince_of_persia_the_sands_of_time",
+        "Name": "Prince of Persia\u00ae: The Sands of Time",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Ubisoft"
+        ],
+        "Price": "5.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/blade_runner_enhanced_edition",
+        "Name": "Blade Runner - Enhanced Edition",
+        "Genre": [
+            "Adventure",
+            "TPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Nightdive Studios, Westwood Studios",
+            "Night Dive Studios"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/deus_ex_human_revolution_directors_cut",
+        "Name": "Deus Ex: Human Revolution - Director\u2019s Cut",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Eidos Montreal",
+            "Eidos Interactive Corporation"
+        ],
+        "Price": "12.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_incredible_machine_mega_pack",
+        "Name": "The Incredible Machine Mega Pack",
+        "Genre": [
+            "Strategy",
+            "Building",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Dynamix",
+            "Disney"
+        ],
+        "Price": "8.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/heroes_of_might_and_magic_3_complete_edition",
+        "Name": "Heroes of Might and Magic\u00ae 3: Complete",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "New World Computing, Inc.",
+            "Ubisoft"
+        ],
+        "Price": "19.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/stardew_valley",
+        "Name": "Stardew Valley",
+        "Genre": [
+            "Simulation",
+            "Role-playing",
+            "Managerial"
+        ],
+        "Companies": [
+            "ConcernedApe"
+        ],
+        "Price": "19.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/deus_ex",
+        "Name": "Deus Ex\u2122 GOTY Edition",
+        "Genre": [
+            "Role-playing",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Ion Storm Inc.",
+            "Eidos Interactive Corporation"
+        ],
+        "Price": "4.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/bear_with_me_the_complete_collection",
+        "Name": "Bear With Me: The Complete Collection",
+        "Genre": [
+            "Adventure",
+            "Puzzle",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Exordium Games",
+            "Maximum Entertainment"
+        ],
+        "Price": "1.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/kingdom_come_deliverance_royal_edition",
+        "Name": "Kingdom Come: Deliverance Royal Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Historical"
+        ],
+        "Companies": [
+            "Warhorse Studios",
+            "Warhorse Studios / Prime Matter"
+        ],
+        "Price": "39.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/fallout_4_game_of_the_year_edition",
+        "Name": "Fallout 4: Game of the Year Edition",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Open World"
+        ],
+        "Companies": [
+            "Bethesda Game Studios",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "48.02 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/terraria",
+        "Name": "Terraria",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Managerial"
+        ],
+        "Companies": [
+            "Re-Logic"
+        ],
+        "Price": "10.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/alpha_protocol",
+        "Name": "Alpha Protocol",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Espionage"
+        ],
+        "Companies": [
+            "Obsidian Entertainment",
+            "SEGA"
+        ],
+        "Price": "83.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/blood_omen_legacy_of_kain",
+        "Name": "Blood Omen: Legacy of Kain",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Crystal Dynamics"
+        ],
+        "Price": "2.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/cris_tales",
+        "Name": "Cris Tales",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Dreams Uncorporated / SYCK",
+            "Maximum Entertainment"
+        ],
+        "Price": "7.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/days_gone",
+        "Name": "Days Gone",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Survival"
+        ],
+        "Companies": [
+            "Bend Studio",
+            "PlayStation PC LLC"
+        ],
+        "Price": "49.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sleeping_dogs_definitive_edition",
+        "Name": "Sleeping Dogs: Definitive Edition",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Open World"
+        ],
+        "Companies": [
+            "United Front Games",
+            "Square Enix"
+        ],
+        "Price": "8.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/jade_empire_special_edition",
+        "Name": "Jade Empire: Special Edition",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "BioWare",
+            "Electronic Arts"
+        ],
+        "Price": "18.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/day_of_the_tentacle_remastered",
+        "Name": "Day of the Tentacle Remastered",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Double Fine Productions"
+        ],
+        "Price": "6.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/fallout_new_vegas_ultimate_edition",
+        "Name": "Fallout: New Vegas Ultimate Edition",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Open World"
+        ],
+        "Companies": [
+            "Obsidian Entertainment",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "20.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition",
+        "Name": "The Secret of Monkey Island\u2122: Special Edition",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/rollercoaster_tycoon_2",
+        "Name": "RollerCoaster Tycoon\u00ae 2: Triple Thrill Pack",
+        "Genre": [
+            "Simulation",
+            "Building",
+            "Managerial"
+        ],
+        "Companies": [
+            "Chris Sawyer Productions",
+            "Atari"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/might_and_magic_6_limited_edition",
+        "Name": "Might and Magic\u00ae 6-pack Limited Edition",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "New World Computing, Inc.",
+            "Ubisoft"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition",
+        "Name": "The Elder Scrolls V: Skyrim Anniversary Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Bethesda Game Studios",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "59.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/lego_star_wars_the_complete_saga",
+        "Name": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "Companies": [
+            "Traveller's Tales",
+            "Disney"
+        ],
+        "Price": "14.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/medal_of_honor_pacific_assault",
+        "Name": "Medal of Honor\u2122: Pacific Assault",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Historical"
+        ],
+        "Companies": [
+            "Electronic Arts"
+        ],
+        "Price": "12.25 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/gothic",
+        "Name": "Gothic",
+        "Genre": [
+            "Role-playing",
+            "TPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Piranha Bytes",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "4.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_digital_deluxe_edition",
+        "Name": "Neverwinter Nights: Enhanced Edition Digital Deluxe Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Beamdog"
+        ],
+        "Price": "14.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/grim_fandango_remastered",
+        "Name": "Grim Fandango Remastered",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Double Fine Productions"
+        ],
+        "Price": "6.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/kane_lynch_2_dog_days",
+        "Name": "Kane & Lynch 2: Dog Days - Complete Edition",
+        "Genre": [
+            "Action",
+            "TPP"
+        ],
+        "Companies": [
+            "IO Interactive",
+            "Square Enix"
+        ],
+        "Price": "6.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition",
+        "Name": "The Secret of Monkey Island\u2122: Special Edition",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/world_in_conflict_complete_edition",
+        "Name": "World in Conflict: Complete Edition",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Modern"
+        ],
+        "Companies": [
+            "Massive Entertainment",
+            "Ubisoft"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/gothic_2_gold_edition",
+        "Name": "Gothic 2 Gold Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Piranha Bytes",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "4.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/alisa",
+        "Name": "Alisa",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Horror"
+        ],
+        "Companies": [
+            "Casper Croes"
+        ],
+        "Price": "24.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/days_gone",
+        "Name": "Days Gone",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Survival"
+        ],
+        "Companies": [
+            "Bend Studio",
+            "PlayStation PC LLC"
+        ],
+        "Price": "49.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/firewatch",
+        "Name": "Firewatch",
+        "Genre": [
+            "Adventure",
+            "Simulation",
+            "Mystery"
+        ],
+        "Companies": [
+            "Campo Santo"
+        ],
+        "Price": "9.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/icewind_dale_enhanced_edition",
+        "Name": "Icewind Dale: Enhanced Edition",
+        "Genre": [
+            "Role-playing",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Beamdog"
+        ],
+        "Price": "7.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/fallout_new_vegas_ultimate_edition",
+        "Name": "Fallout: New Vegas Ultimate Edition",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Open World"
+        ],
+        "Companies": [
+            "Obsidian Entertainment",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "20.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/lego_star_wars_the_complete_saga",
+        "Name": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "Companies": [
+            "Traveller's Tales",
+            "Disney"
+        ],
+        "Price": "14.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/prince_of_persia_warrior_within",
+        "Name": "Prince of Persia: Warrior Within",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Ubisoft"
+        ],
+        "Price": "5.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/thief_2_the_metal_age",
+        "Name": "Thief\u2122 2: The Metal Age",
+        "Genre": [
+            "Action",
+            "Simulation",
+            "Stealth"
+        ],
+        "Companies": [
+            "Looking Glass Studios",
+            "Eidos Interactive Corporation"
+        ],
+        "Price": "4.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/might_and_magic_8_day_of_the_destroyer",
+        "Name": "Might and Magic\u00ae 8: Day of the Destroyer\u2122",
+        "Genre": [
+            "Role-playing",
+            "FPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "New World Computing, Inc.",
+            "Ubisoft"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/system_shock_2",
+        "Name": "System Shock\u2122 2",
+        "Genre": [
+            "Role-playing",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Irrational Games and Looking Glass",
+            "Night Dive Studios"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/remothered_broken_porcelain",
+        "Name": "Remothered: Broken Porcelain",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Horror"
+        ],
+        "Companies": [
+            "Stormind Games",
+            "Maximum Entertainment"
+        ],
+        "Price": "3.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/metro_franchise_bundle",
+        "Name": "Metro Franchise Bundle",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "4A Games",
+            "Deep Silver"
+        ],
+        "Price": "47.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/deus_ex_mankind_divided_deluxe_edition",
+        "Name": "Deus Ex: Mankind Divided - Digital Deluxe Edition",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Eidos Montreal",
+            "Eidos Interactive Corporation"
+        ],
+        "Price": "14.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/medal_of_honor_pacific_assault",
+        "Name": "Medal of Honor\u2122: Pacific Assault",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Historical"
+        ],
+        "Companies": [
+            "Electronic Arts"
+        ],
+        "Price": "12.25 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/rollercoaster_tycoon_deluxe",
+        "Name": "RollerCoaster Tycoon\u00ae Deluxe",
+        "Genre": [
+            "Simulation",
+            "Building",
+            "Managerial"
+        ],
+        "Companies": [
+            "Chris Sawyer Productions",
+            "Atari"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/kingdom_come_deliverance_royal_edition",
+        "Name": "Kingdom Come: Deliverance Royal Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Historical"
+        ],
+        "Companies": [
+            "Warhorse Studios",
+            "Warhorse Studios / Prime Matter"
+        ],
+        "Price": "39.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/divinity_original_sin_enhanced_edition",
+        "Name": "Divinity: Original Sin - Enhanced Edition",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Larian Studios"
+        ],
+        "Price": "14.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/prince_of_persia_the_two_thrones",
+        "Name": "Prince of Persia: The Two Thrones",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Ubisoft Montreal",
+            "Ubisoft"
+        ],
+        "Price": "5.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_jedi_knight_jedi_academy",
+        "Name": "Star Wars\u2122: Jedi Knight\u2122 - Jedi Academy\u2122",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/simcity_2000_special_edition",
+        "Name": "SimCity\u2122 2000 Special Edition",
+        "Genre": [
+            "Simulation",
+            "Building",
+            "Managerial"
+        ],
+        "Companies": [
+            "Maxis Software Inc.",
+            "Electronic Arts"
+        ],
+        "Price": "9.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_book_of_unwritten_tales_critter_chronicles",
+        "Name": "The Book Of Unwritten Tales: The Critter Chronicles",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "KING Art",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "3.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_book_of_unwritten_tales",
+        "Name": "The Book of Unwritten Tales",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "KING Art",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "3.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/fallout_3_game_of_the_year_edition",
+        "Name": "Fallout 3: Game of the Year Edition",
+        "Genre": [
+            "Role-playing",
+            "FPP",
+            "Open World"
+        ],
+        "Companies": [
+            "Bethesda Game Studios",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "13.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/gothic_3",
+        "Name": "Gothic 3",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Piranha Bytes",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "4.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sacred_gold",
+        "Name": "Sacred Gold",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "ASCARON Entertainment",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dungeon_keeper_2",
+        "Name": "Dungeon Keeper\u2122 2",
+        "Genre": [
+            "Strategy",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Bullfrog Productions",
+            "Electronic Arts"
+        ],
+        "Price": "9.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sid_meiers_alpha_centauri",
+        "Name": "Sid Meier's Alpha Centauri\u2122 Planetary Pack",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Firaxis Games",
+            "Electronic Arts"
+        ],
+        "Price": "9.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/disco_elysium",
+        "Name": "Disco Elysium - The Final Cut",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "ZA/UM"
+        ],
+        "Price": "18.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/bloodstained_ritual_of_the_night",
+        "Name": "Bloodstained: Ritual of the Night",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Metroidvania"
+        ],
+        "Companies": [
+            "ArtPlay",
+            "505 Games"
+        ],
+        "Price": "18.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/thronebreaker_the_witcher_tales",
+        "Name": "Thronebreaker: The Witcher Tales",
+        "Genre": [
+            "Role-playing",
+            "Strategy",
+            "Fantasy"
+        ],
+        "Companies": [
+            "CD PROJEKT RED"
+        ],
+        "Price": "11.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_pack",
+        "Name": "Neverwinter Nights: Enhanced Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Beamdog"
+        ],
+        "Price": "5.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/cuphead",
+        "Name": "Cuphead",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "StudioMDHR Entertainment Inc."
+        ],
+        "Price": "25.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/faster_than_light",
+        "Name": "FTL: Advanced Edition",
+        "Genre": [
+            "Strategy",
+            "Simulation",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Subset Games"
+        ],
+        "Price": "5.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sacred_2_gold",
+        "Name": "Sacred 2 Gold",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "ASCARON Entertainment",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "6.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/jade_empire_special_edition",
+        "Name": "Jade Empire: Special Edition",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "BioWare",
+            "Electronic Arts"
+        ],
+        "Price": "18.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/silent_hill_4_the_room",
+        "Name": "Silent Hill 4: The Room",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Horror"
+        ],
+        "Companies": [
+            "Team Silent",
+            "Konami Digital Entertainment"
+        ],
+        "Price": "34.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_settlers_3_ultimate_collection",
+        "Name": "Settlers\u00ae 3: Ultimate Collection",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Blue Byte Studio",
+            "Ubisoft"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/rayman_2_the_great_escape",
+        "Name": "Rayman 2: The Great Escape",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Ubisoft"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/thief_gold",
+        "Name": "Thief\u2122 Gold",
+        "Genre": [
+            "Action",
+            "Simulation",
+            "Stealth"
+        ],
+        "Companies": [
+            "Looking Glass Studios",
+            "Eidos Interactive Corporation"
+        ],
+        "Price": "4.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/atlantis_the_lost_tales",
+        "Name": "Atlantis: The Lost Tales",
+        "Genre": [
+            "Adventure",
+            "FPP",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Cryo Interactive",
+            "Microids"
+        ],
+        "Price": "1.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/i_have_no_mouth_and_i_must_scream",
+        "Name": "I Have No Mouth And I Must Scream",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Horror"
+        ],
+        "Companies": [
+            "The Dreamers Guild",
+            "Night Dive Studios"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/in_sound_mind",
+        "Name": "In Sound Mind",
+        "Genre": [
+            "Adventure",
+            "Survival",
+            "Horror"
+        ],
+        "Companies": [
+            "We Create Stuff",
+            "Maximum Entertainment"
+        ],
+        "Price": "3.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/planescape_torment_enhanced_edition",
+        "Name": "Planescape: Torment: Enhanced Edition",
+        "Genre": [
+            "Role-playing",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Beamdog"
+        ],
+        "Price": "7.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dragons_dogma_dark_arisen",
+        "Name": "Dragon's Dogma: Dark Arisen",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Open World"
+        ],
+        "Companies": [
+            "Capcom"
+        ],
+        "Price": "12.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/papers_please",
+        "Name": "Papers, Please",
+        "Genre": [
+            "Simulation",
+            "Point-and-click",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Lucas Pope",
+            "3909 LLC"
+        ],
+        "Price": "8.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/monkey_island_2_special_edition_lechucks_revenge",
+        "Name": "Monkey Island\u2122 2 Special Edition: LeChuck\u2019s Revenge\u2122",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/prince_of_persia",
+        "Name": "Prince of Persia",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Ubisoft Montreal",
+            "Ubisoft"
+        ],
+        "Price": "5.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/simcity_4_deluxe_edition",
+        "Name": "SimCity\u2122 4 Deluxe Edition",
+        "Genre": [
+            "Simulation",
+            "Building",
+            "Managerial"
+        ],
+        "Companies": [
+            "Maxis Software Inc.",
+            "Electronic Arts"
+        ],
+        "Price": "24.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/return_to_castle_wolfenstein",
+        "Name": "Return to Castle Wolfenstein",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Horror"
+        ],
+        "Companies": [
+            "id Software",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_galactic_battlegrounds_saga",
+        "Name": "STAR WARS\u2122 Galactic Battlegrounds Saga",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/populous_the_beginning",
+        "Name": "Populous\u2122: The Beginning",
+        "Genre": [
+            "Strategy",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Bullfrog Productions",
+            "Electronic Arts"
+        ],
+        "Price": "9.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_elder_scrolls_adventures_redguard",
+        "Name": "The Elder Scrolls Adventures: Redguard",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Bethesda Softworks",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "9.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/skald_against_the_black_priory",
+        "Name": "SKALD: Against the Black Priory",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "High North Studios AS",
+            "Raw Fury"
+        ],
+        "Price": "39.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/ori_and_the_blind_forest_definitive_edition",
+        "Name": "Ori and the Blind Forest: Definitive Edition",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Moon Studios GmbH",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "32.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/darkest_dungeon",
+        "Name": "Darkest Dungeon\u00ae",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Red Hook Studios"
+        ],
+        "Price": "6.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_book_of_unwritten_tales_2_almanac_edition",
+        "Name": "The Book of Unwritten Tales 2 Almanac Edition",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "KING Art",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "6.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/metro_last_light_redux",
+        "Name": "Metro: Last Light Redux",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Survival"
+        ],
+        "Companies": [
+            "4A Games",
+            "Deep Silver"
+        ],
+        "Price": "9.98 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/stalker_call_of_pripyat",
+        "Name": "S.T.A.L.K.E.R.: Call of Pripyat",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Survival"
+        ],
+        "Companies": [
+            "GSC Game World"
+        ],
+        "Price": "8.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/lego_indiana_jones_the_original_adventures",
+        "Name": "LEGO\u00ae Indiana Jones\u2122: The Original Adventures",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "Companies": [
+            "Traveller's Tales",
+            "Disney"
+        ],
+        "Price": "14.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/medal_of_honor_allied_assault_war_chest",
+        "Name": "Medal of Honor: Allied Assault War Chest",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Historical"
+        ],
+        "Companies": [
+            "Electronic Arts"
+        ],
+        "Price": "24.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/divine_divinity",
+        "Name": "Divine Divinity",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Larian Studios"
+        ],
+        "Price": "3.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_jedi_knight_ii_jedi_outcast",
+        "Name": "Star Wars\u2122: Jedi Knight\u2122 II - Jedi Outcast\u2122",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/clive_barkers_undying",
+        "Name": "Clive Barker's Undying",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Horror"
+        ],
+        "Companies": [
+            "DreamWorks Interactive",
+            "Electronic Arts"
+        ],
+        "Price": "9.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/metal_gear_solid",
+        "Name": "METAL GEAR SOLID",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Stealth"
+        ],
+        "Companies": [
+            "Konami Computer Entertainment Japan, Inc.",
+            "Konami Digital Entertainment"
+        ],
+        "Price": "34.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/atlantis_2_beyond_atlantis",
+        "Name": "Atlantis 2: Beyond Atlantis",
+        "Genre": [
+            "Adventure",
+            "FPP",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Cryo Interactive",
+            "Microids"
+        ],
+        "Price": "0.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/rayman_forever",
+        "Name": "Rayman\u00ae Forever",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Ubisoft"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/gangsters_organized_crime",
+        "Name": "Gangsters: Organized Crime",
+        "Genre": [
+            "Strategy",
+            "Simulation",
+            "Managerial"
+        ],
+        "Companies": [
+            "Hothouse Creations",
+            "Square Enix"
+        ],
+        "Price": "3.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire",
+        "Name": "An Elder Scrolls Legend: Battlespire",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Bethesda Softworks",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "9.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/disneys_hercules",
+        "Name": "Disney's Hercules",
+        "Genre": [
+            "Action",
+            "Arcade",
+            "Platformer"
+        ],
+        "Companies": [
+            "Disney Interactive Studios",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/theme_hospital",
+        "Name": "Theme Hospital",
+        "Genre": [
+            "Strategy",
+            "Building",
+            "Managerial"
+        ],
+        "Companies": [
+            "Bullfrog Productions",
+            "Electronic Arts"
+        ],
+        "Price": "7.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_xwing_special_edition",
+        "Name": "STAR WARS\u2122: X-Wing Special Edition",
+        "Genre": [
+            "Action",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/wolfenstein_3d",
+        "Name": "Wolfenstein 3D",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Horror"
+        ],
+        "Companies": [
+            "id Software",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "2.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/robocop_rogue_city",
+        "Name": "RoboCop: Rogue City",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Teyon",
+            "Nacon"
+        ],
+        "Price": "90.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sprawl",
+        "Name": "SPRAWL",
+        "Genre": [
+            "Action",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "MAETH",
+            "Rogue Games, Inc."
+        ],
+        "Price": "32.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/scars_above",
+        "Name": "Scars Above",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Mad Head Games",
+            "Prime Matter"
+        ],
+        "Price": "29.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/curved_space",
+        "Name": "Curved Space",
+        "Genre": [
+            "Action",
+            "Arcade",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Only By Midnight Ltd.",
+            "Maximum Entertainment"
+        ],
+        "Price": "3.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/noita",
+        "Name": "Noita",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Nolla Games"
+        ],
+        "Price": "15.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/two_point_hospital",
+        "Name": "Two Point Hospital",
+        "Genre": [
+            "Simulation",
+            "Building",
+            "Managerial"
+        ],
+        "Companies": [
+            "Two Point Studios",
+            "SEGA"
+        ],
+        "Price": "18.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/pillars_of_eternity_ii_deadfire_obsidian_edition_release",
+        "Name": "Pillars of Eternity II: Deadfire - Obsidian Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Obsidian Entertainment"
+        ],
+        "Price": "27.74 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/synthetik_legion_rising",
+        "Name": "SYNTHETIK: Legion Rising",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Flow Fire Games"
+        ],
+        "Price": "3.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/bioshock_remastered",
+        "Name": "BioShock\u2122 Remastered",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "2K Marin, 2K China, Digital Extremes, 2K Australia, Blind Squirrel",
+            "2K Games"
+        ],
+        "Price": "7.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/heretic_hexen_collection",
+        "Name": "Heretic + Hexen Collection",
+        "Genre": [
+            "Action",
+            "FPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Raven Software",
+            "id Software"
+        ],
+        "Price": "5.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/bastion",
+        "Name": "Bastion",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Supergiant Games"
+        ],
+        "Price": "9.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/oddworld_strangers_wrath",
+        "Name": "Oddworld: Stranger's Wrath HD",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Oddworld Inhabitants"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/venetica",
+        "Name": "Venetica - Gold Edition",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Deck13"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/call_of_cthulhu_dark_corners_of_the_earth",
+        "Name": "Call of Cthulhu: Dark Corners of the Earth",
+        "Genre": [
+            "Action",
+            "FPP",
+            "Horror"
+        ],
+        "Companies": [
+            "Headfirst Productions",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "5.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sid_meiers_pirates",
+        "Name": "Sid Meier\u2019s Pirates!",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Historical"
+        ],
+        "Companies": [
+            "Firaxis Games",
+            "2K Games"
+        ],
+        "Price": "3.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/thief_3",
+        "Name": "Thief\u2122 3: Deadly Shadows",
+        "Genre": [
+            "Action",
+            "Simulation",
+            "Stealth"
+        ],
+        "Companies": [
+            "Ion Storm Inc.",
+            "Eidos Interactive Corporation"
+        ],
+        "Price": "5.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/far_cry",
+        "Name": "Far Cry\u00ae",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Modern"
+        ],
+        "Companies": [
+            "Crytek Studios",
+            "Ubisoft"
+        ],
+        "Price": "8.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_xwing_alliance",
+        "Name": "STAR WARS\u2122: X-Wing Alliance\u2122",
+        "Genre": [
+            "Shooter",
+            "Simulation",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/riven_the_sequel_to_myst",
+        "Name": "Riven (1997)",
+        "Genre": [
+            "Adventure",
+            "FPP",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Cyan Worlds",
+            "Cyan Inc"
+        ],
+        "Price": "8.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_dig",
+        "Name": "The Dig\u00ae",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/indiana_jones_and_the_fate_of_atlantis",
+        "Name": "Indiana Jones\u00ae and the Fate of Atlantis\u2122",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Historical"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/indiana_jones_and_the_last_crusade",
+        "Name": "Indiana Jones\u00ae and the Last Crusade\u2122",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Historical"
+        ],
+        "Companies": [
+            "LucasArts",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous_a_dance_of_masks",
+        "Name": "Pathfinder: Wrath of the Righteous - A Dance of Masks",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Owlcat Games",
+            "Owlcat Games, META Publishing"
+        ],
+        "Price": "34.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/manor_lords",
+        "Name": "Manor Lords",
+        "Genre": [
+            "Strategy",
+            "Building",
+            "Historical"
+        ],
+        "Companies": [
+            "Slavic Magic",
+            "Hooded Horse"
+        ],
+        "Price": "74.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tomb_raider_i_to_iii_remastered",
+        "Name": "Tomb Raider I-III Remastered Starring Lara Croft",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Exploration"
+        ],
+        "Companies": [
+            "Aspyr, Crystal Dynamics",
+            "Aspyr"
+        ],
+        "Price": "66.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/baldurs_gate_iii",
+        "Name": "Baldur's Gate 3",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Larian Studios"
+        ],
+        "Price": "199.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous_season_pass_2",
+        "Name": "Pathfinder: Wrath of the Righteous - Season Pass 2",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Owlcat Games",
+            "META Publishing"
+        ],
+        "Price": "52.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/as_dusk_falls",
+        "Name": "As Dusk Falls",
+        "Genre": [
+            "Adventure",
+            "Role-playing",
+            "Mystery"
+        ],
+        "Companies": [
+            "INTERIOR/NIGHT",
+            "Xbox Game Studios"
+        ],
+        "Price": "20.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/outward_definitive_edition",
+        "Name": "Outward Definitive Edition",
+        "Genre": [
+            "Role-playing",
+            "Survival",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Nine Dots Studio",
+            "Prime Matter"
+        ],
+        "Price": "23.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/god_of_war",
+        "Name": "God of War",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Santa Monica Studio",
+            "PlayStation PC LLC"
+        ],
+        "Price": "99.98 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/blood_fresh_supply",
+        "Name": "Blood: Fresh Supply",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Horror"
+        ],
+        "Companies": [
+            "Monolith Productions",
+            "Atari"
+        ],
+        "Price": "6.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/book_of_demons",
+        "Name": "Book of Demons",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Thing Trunk"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/pillars_of_eternity_definitive_edition",
+        "Name": "Pillars of Eternity: Definitive Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Obsidian Entertainment"
+        ],
+        "Price": "18.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/stalker_clear_sky",
+        "Name": "S.T.A.L.K.E.R.: Clear Sky",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Survival"
+        ],
+        "Companies": [
+            "GSC Game World"
+        ],
+        "Price": "4.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/crysis",
+        "Name": "Crysis\u00ae",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Crytek Studios",
+            "Electronic Arts"
+        ],
+        "Price": "24.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/still_life",
+        "Name": "Still Life",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Microids"
+        ],
+        "Price": "1.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/warlords_battlecry_3",
+        "Name": "Warlords Battlecry 3",
+        "Genre": [
+            "Role-playing",
+            "Strategy",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Infinite Interactive",
+            "Enlight Software"
+        ],
+        "Price": "10.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/robin_hood",
+        "Name": "Robin Hood: The Legend of Sherwood",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Tactical"
+        ],
+        "Companies": [
+            "Spellbound Entertainment AG",
+            "Microids"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/might_and_magic_9",
+        "Name": "Might and Magic\u00ae 9",
+        "Genre": [
+            "Role-playing",
+            "FPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "New World Computing, Inc.",
+            "Ubisoft"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/indiana_jones_and_the_infernal_machine",
+        "Name": "Indiana Jones\u00ae and the Infernal Machine\u2122",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fighting"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/panzer_general_2",
+        "Name": "Panzer General 2",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Historical"
+        ],
+        "Companies": [
+            "Strategic Simulations",
+            "Ubisoft"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/outlaws_a_handful_of_missions",
+        "Name": "Outlaws + A Handful of Missions",
+        "Genre": [
+            "Shooter",
+            "Adventure",
+            "Historical"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/diablo",
+        "Name": "Diablo + Hellfire",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Blizzard Entertainment, Inc."
+        ],
+        "Price": "48.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/doom_ii",
+        "Name": "DOOM II",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "id Software",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "3.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/system_shock_enhanced_edition",
+        "Name": "System Shock: Enhanced Edition",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Looking Glass Studios",
+            "Night Dive Studios"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/doom_1993",
+        "Name": "DOOM (1993)",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "id Software",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "3.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/loom",
+        "Name": "LOOM\u2122",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/a_tower_full_of_cats",
+        "Name": "A Tower Full of Cats",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Hidden Object"
+        ],
+        "Companies": [
+            "Devcats"
+        ],
+        "Price": "13.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/titan_quest_eternal_embers",
+        "Name": "Titan Quest: Eternal Embers",
+        "Genre": [
+            "Role-playing",
+            "Combat",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Digital Arrow, THQ Nordic",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "19.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/in_sound_mind_deluxe_edition",
+        "Name": "In Sound Mind - Deluxe Edition",
+        "Genre": [
+            "Adventure",
+            "Survival",
+            "Horror"
+        ],
+        "Companies": [
+            "We Create Stuff",
+            "Maximum Entertainment"
+        ],
+        "Price": "3.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dying_light_definitive_edition",
+        "Name": "Dying Light: Definitive Edition",
+        "Genre": [
+            "Action",
+            "FPP",
+            "Modern"
+        ],
+        "Companies": [
+            "Techland"
+        ],
+        "Price": "25.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/yakuza_like_a_dragon_hero_edition",
+        "Name": "Yakuza: Like a Dragon Hero Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Narrative"
+        ],
+        "Companies": [
+            "Ryu Ga Gotoku Studio",
+            "SEGA"
+        ],
+        "Price": "57.80 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/beyond_a_steel_sky",
+        "Name": "Beyond a Steel Sky",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Revolution Software"
+        ],
+        "Price": "9.98 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/titan_quest_atlantis",
+        "Name": "Titan Quest: Atlantis",
+        "Genre": [
+            "Role-playing",
+            "Combat",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Pieces Interactive, THQ Nordic ",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "10.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/far_lone_sails",
+        "Name": "FAR: Lone Sails",
+        "Genre": [
+            "Adventure",
+            "Survival",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Okomotive",
+            "Assemble Entertainment"
+        ],
+        "Price": "4.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/into_the_breach",
+        "Name": "Into the Breach",
+        "Genre": [
+            "Strategy",
+            "Simulation",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Subset Games"
+        ],
+        "Price": "14.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/outcast_second_contact",
+        "Name": "Outcast - Second Contact",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Appeal",
+            "Plug In Digital"
+        ],
+        "Price": "2.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/baldurs_gate_siege_of_dragonspear",
+        "Name": "Baldur's Gate: Siege of Dragonspear",
+        "Genre": [
+            "Role-playing",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Beamdog"
+        ],
+        "Price": "9.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_book_of_unwritten_tales_2",
+        "Name": "The Book of Unwritten Tales 2",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "KING Art",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "5.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/mount_blade_warband",
+        "Name": "Mount & Blade: Warband",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "TaleWorlds Entertainment"
+        ],
+        "Price": "20.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sherlock_holmes_versus_jack_the_ripper",
+        "Name": "Sherlock Holmes versus Jack the Ripper",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Frogwares"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/necrovision",
+        "Name": "NecroVision",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Horror"
+        ],
+        "Companies": [
+            "The Farm 51",
+            "Fulqrum Publishing"
+        ],
+        "Price": "2.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/stalker_shadow_of_chernobyl",
+        "Name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Survival"
+        ],
+        "Companies": [
+            "GSC Game World"
+        ],
+        "Price": "8.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_settlers_2_10th_anniversary",
+        "Name": "The Settlers\u00ae 2: 10th Anniversary",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Blue Byte Studio",
+            "Ubisoft"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tomb_raider_legend",
+        "Name": "Tomb Raider: Legend",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Crystal Dynamics"
+        ],
+        "Price": "4.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_republic_commando",
+        "Name": "STAR WARS\u2122 Republic Commando",
+        "Genre": [
+            "Action",
+            "FPP",
+            "Tactical"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/atlantis_evolution",
+        "Name": "Atlantis Evolution",
+        "Genre": [
+            "Adventure",
+            "FPP",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Atlantis Interactive Entertainment",
+            "Microids"
+        ],
+        "Price": "2.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/curse_the_eye_of_isis",
+        "Name": "Curse: The Eye of Isis",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Horror"
+        ],
+        "Companies": [
+            "Asylum Entertainment",
+            "Microids"
+        ],
+        "Price": "0.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/splinter_cell",
+        "Name": "Tom Clancy's Splinter Cell\u00ae",
+        "Genre": [
+            "Action",
+            "Simulation",
+            "Stealth"
+        ],
+        "Companies": [
+            "Ubisoft Montreal",
+            "Ubisoft"
+        ],
+        "Price": "7.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/atlantis_3_the_new_world",
+        "Name": "Atlantis 3: The New World",
+        "Genre": [
+            "Adventure",
+            "FPP",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Cryo Interactive",
+            "Microids"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/red_faction",
+        "Name": "Red Faction",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Volition",
+            "Deep Silver"
+        ],
+        "Price": "10.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/independence_war_2",
+        "Name": "Independence War\u2122 II: Edge of Chaos",
+        "Genre": [
+            "Shooter",
+            "Simulation",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Particle Systems Ltd.",
+            "Atari"
+        ],
+        "Price": "1.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/escape_from_monkey_island",
+        "Name": "Escape from Monkey Island\u2122",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "LucasArts",
+            "Disney"
+        ],
+        "Price": "8.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/warcraft_2_battlenet_edition",
+        "Name": "Warcraft II Battle.net Edition",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Blizzard Entertainment, Inc."
+        ],
+        "Price": "48.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/myst_masterpiece_edition",
+        "Name": "Myst Masterpiece Edition",
+        "Genre": [
+            "Adventure",
+            "FPP",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Cyan Worlds",
+            "Cyan Inc"
+        ],
+        "Price": "8.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/blade_runner",
+        "Name": "Blade Runner",
+        "Genre": [
+            "Adventure",
+            "TPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Westwood Studios, Inc.",
+            "Alcon Interactive Group"
+        ],
+        "Price": "13.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dungeon_keeper",
+        "Name": "Dungeon Keeper Gold\u2122",
+        "Genre": [
+            "Strategy",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Bullfrog Productions",
+            "Electronic Arts"
+        ],
+        "Price": "9.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_tie_fighter_special_edition",
+        "Name": "STAR WARS\u2122: TIE Fighter Special Edition",
+        "Genre": [
+            "Action",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123",
+        "Name": "Alone in the Dark: The Trilogy 1+2+3",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Horror"
+        ],
+        "Companies": [
+            "Infogrames Europe SA",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/front_mission_1st_remake",
+        "Name": "FRONT MISSION 1st: Remake",
+        "Genre": [
+            "Role-playing",
+            "Strategy",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Forever Entertainment S. A."
+        ],
+        "Price": "51.05 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/flashout_3",
+        "Name": "Flashout 3",
+        "Genre": [
+            "Racing",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Jujubee S.A."
+        ],
+        "Price": "7.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/clid_the_snail",
+        "Name": "Clid the Snail",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Shoot 'em Up"
+        ],
+        "Companies": [
+            "Weird Beluga Studio S.L.",
+            "Koch Media"
+        ],
+        "Price": "3.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/iron_harvest_deluxe_edition",
+        "Name": "Iron Harvest Deluxe Edition",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "KING Art Games",
+            "Prime Matter"
+        ],
+        "Price": "33.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/warcraft_bundle",
+        "Name": "Warcraft I & II Bundle",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Blizzard Entertainment, Inc."
+        ],
+        "Price": "73.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/this_war_of_mine_complete_edition",
+        "Name": "This War of Mine: Complete Edition",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Survival"
+        ],
+        "Companies": [
+            "11 bit studios"
+        ],
+        "Price": "7.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/thimbleweed_park",
+        "Name": "Thimbleweed Park",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Terrible Toybox"
+        ],
+        "Price": "9.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/kona_day_one",
+        "Name": "Kona",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Parabole"
+        ],
+        "Price": "2.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_special_edition",
+        "Name": "The Elder Scrolls V: Skyrim Special Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Bethesda Game Studios",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "37.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dishonored_2",
+        "Name": "Dishonored 2",
+        "Genre": [
+            "Action",
+            "FPP",
+            "Stealth"
+        ],
+        "Companies": [
+            "Arkane Studios",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "18.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/bioshock_2_remastered",
+        "Name": "BioShock\u2122 2 Remastered",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "2K Marin, 2K China, Digital Extremes, 2K Australia, Blind Squirrel",
+            "2K Games"
+        ],
+        "Price": "4.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/rebel_galaxy",
+        "Name": "Rebel Galaxy",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Open World"
+        ],
+        "Companies": [
+            "Double Damage Games",
+            "Double Damage Games."
+        ],
+        "Price": "3.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/nostradamus_the_last_prophecy",
+        "Name": "Nostradamus: The Last Prophecy",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Mystery"
+        ],
+        "Companies": [
+            "Microids"
+        ],
+        "Price": "0.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dust_an_elysian_tail",
+        "Name": "Dust: An Elysian Tail",
+        "Genre": [
+            "Adventure",
+            "Role-playing",
+            "Platformer"
+        ],
+        "Companies": [
+            "Humble Hearts LLC"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dungeon_siege_collection",
+        "Name": "Dungeon Siege Collection",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Gas Powered Games, Obsidian Entertainment",
+            "Square Enix, Eidos Interactive"
+        ],
+        "Price": "8.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/saints_row_2",
+        "Name": "Saints Row 2",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Modern"
+        ],
+        "Companies": [
+            "Volition",
+            "Deep Silver"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/supreme_commander_gold_edition",
+        "Name": "Supreme Commander Gold Edition",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Gas Powered Games",
+            "Square Enix"
+        ],
+        "Price": "6.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/far_cry_2_fortunes_edition",
+        "Name": "Far Cry\u00ae 2: Fortune's Edition",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Modern"
+        ],
+        "Companies": [
+            "Ubisoft Montreal",
+            "Ubisoft"
+        ],
+        "Price": "8.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_empire_at_war_gold_pack",
+        "Name": "STAR WARS\u2122 Empire at War: Gold Pack",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "20.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/warhammer_40000_dawn_of_war",
+        "Name": "Warhammer 40,000: Dawn of War - Master Collection",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Relic Entertainment",
+            "SEGA"
+        ],
+        "Price": "19.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/deus_ex_invisible_war",
+        "Name": "Deus Ex 2: Invisible War",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Ion Storm Inc.",
+            "Eidos Interactive Corporation"
+        ],
+        "Price": "2.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/post_mortem",
+        "Name": "Post Mortem",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Microids"
+        ],
+        "Price": "1.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/haegemonia_gold_edition",
+        "Name": "Haegemonia Gold Edition",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Digital Reality",
+            "Microids"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/serious_sam_the_second_encounter",
+        "Name": "Serious Sam: The Second Encounter",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Croteam",
+            "Devolver Digital"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/empire_earth_gold_edition",
+        "Name": "Empire Earth Gold Edition",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Historical"
+        ],
+        "Companies": [
+            "Stainless Steel Studios",
+            "Rebellion"
+        ],
+        "Price": "11.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tom_clancys_ghost_recon",
+        "Name": "Tom Clancy's Ghost Recon\u00ae",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Modern"
+        ],
+        "Companies": [
+            "Red Storm Entertainment",
+            "Ubisoft"
+        ],
+        "Price": "8.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/majesty_gold_hd",
+        "Name": "Majesty Gold HD",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Cyberlore Studios",
+            "Paradox Interactive"
+        ],
+        "Price": "3.40 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/fallout_tactics",
+        "Name": "Fallout Tactics",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "14\u00b0 East",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "7.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/omikron_the_nomad_soul",
+        "Name": "Omikron: The Nomad Soul",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Quantic Dream",
+            "Square Enix"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sin_gold",
+        "Name": "SiN Gold",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Ritual Entertainment",
+            "Night Dive Studios"
+        ],
+        "Price": "5.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/crusader_no_remorse",
+        "Name": "Crusader: No Remorse\u2122",
+        "Genre": [
+            "Action",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Origin Systems",
+            "Electronic Arts"
+        ],
+        "Price": "7.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/theme_park",
+        "Name": "Theme Park",
+        "Genre": [
+            "Simulation",
+            "Building",
+            "Managerial"
+        ],
+        "Companies": [
+            "Bullfrog Productions",
+            "Electronic Arts"
+        ],
+        "Price": "7.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/xcom_ufo_defense",
+        "Name": "X-Com: UFO Defense",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "MicroProse",
+            "2K Games"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/cannon_fodder",
+        "Name": "Cannon Fodder",
+        "Genre": [
+            "Action",
+            "Arcade",
+            "Tactical"
+        ],
+        "Companies": [
+            "Sensible Software",
+            "Codemasters"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sam_max_hit_the_road",
+        "Name": "Sam & Max Hit the Road",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sprawl_soundtrack_bundle",
+        "Name": "Sprawl + Soundtrack Bundle",
+        "Genre": [
+            "Action",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "MAETH",
+            "Rogue Games, Inc."
+        ],
+        "Price": "40.38 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/warhammer_40000_boltgun_forges_of_corruption",
+        "Name": "Warhammer 40,000: Boltgun - Forges of Corruption",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Auroch Digital",
+            "Focus Entertainment"
+        ],
+        "Price": "20.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/living_with_sister_monochrome_fantasy",
+        "Name": "Living With Sister: Monochrome Fantasy",
+        "Genre": [
+            "Role-playing",
+            "Visual Novel",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Inusuku",
+            "Kagura Games"
+        ],
+        "Price": "33.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/warhammer_40000_rogue_trader",
+        "Name": "Warhammer 40,000: Rogue Trader",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Tactical"
+        ],
+        "Companies": [
+            "Owlcat Games"
+        ],
+        "Price": "81.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/slay_the_princess",
+        "Name": "Slay the Princess",
+        "Genre": [
+            "Adventure",
+            "Visual Novel",
+            "Horror"
+        ],
+        "Companies": [
+            "Black Tabby Games"
+        ],
+        "Price": "41.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/cuphead_the_delicious_last_course",
+        "Name": "Cuphead - The Delicious Last Course",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "StudioMDHR Entertainment Inc."
+        ],
+        "Price": "15.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/chorus",
+        "Name": "Chorus",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Deep Silver"
+        ],
+        "Price": "24.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/wasteland_3_colorado_collection",
+        "Name": "Wasteland 3: Colorado Collection",
+        "Genre": [
+            "Role-playing",
+            "Strategy",
+            "Fantasy"
+        ],
+        "Companies": [
+            "inXile Entertainment",
+            "Prime Matter"
+        ],
+        "Price": "23.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/shenmue_iii_deluxe_edition",
+        "Name": "Shenmue III Deluxe Edition",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fighting"
+        ],
+        "Companies": [
+            "YS Net",
+            "Prime Matter"
+        ],
+        "Price": "19.98 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/contra_anniversary_collection",
+        "Name": "Contra Anniversary Collection",
+        "Genre": [
+            "Action"
+        ],
+        "Companies": [
+            "Konami Digital Entertainment"
+        ],
+        "Price": "15.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/truberbrook",
+        "Name": "Tr\u00fcberbrook",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "btf",
+            "Headup"
+        ],
+        "Price": "2.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/warhammer_40000_mechanicus",
+        "Name": "Warhammer 40,000: Mechanicus",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Bulwark Studios",
+            "Kasedo Games"
+        ],
+        "Price": "12.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/grip",
+        "Name": "GRIP",
+        "Genre": [
+            "Racing",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Caged Element Inc.",
+            "Wired Productions"
+        ],
+        "Price": "6.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/return_of_the_obra_dinn",
+        "Name": "Return of the Obra Dinn",
+        "Genre": [
+            "Adventure",
+            "FPP",
+            "Mystery"
+        ],
+        "Companies": [
+            "Lucas Pope",
+            "3909 LLC"
+        ],
+        "Price": "40.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/darkest_dungeon_the_color_of_madness",
+        "Name": "Darkest Dungeon\u00ae: The Color Of Madness",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Red Hook Studios"
+        ],
+        "Price": "3.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/baldurs_gate_faces_of_good_and_evil",
+        "Name": "Baldur's Gate: Faces of Good and Evil",
+        "Genre": [
+            "Role-playing",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Beamdog"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/remothered_tormented_fathers",
+        "Name": "Remothered: Tormented Fathers",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Horror"
+        ],
+        "Companies": [
+            "Stormind Games",
+            "Remothered S.r.l."
+        ],
+        "Price": "3.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/titan_quest_ragnarok",
+        "Name": "Titan Quest: Ragnar\u00f6k",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Pieces Interactive, THQ Nordic ",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "9.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/full_throttle_remastered",
+        "Name": "Full Throttle Remastered",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Double Fine Productions"
+        ],
+        "Price": "6.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/crosscode",
+        "Name": "CrossCode",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Radical Fish Games",
+            "Deck13"
+        ],
+        "Price": "11.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/killer_is_dead_nightmare_edition",
+        "Name": "Killer is Dead: Nightmare Edition",
+        "Genre": [
+            "Action",
+            "Survival",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "KADOKAWA GAMES / GRASSHOPPER MANUFACTURE",
+            "Deep Silver"
+        ],
+        "Price": "9.98 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/shadow_warrior",
+        "Name": "Shadow Warrior (2013)",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Flying Wild Hog",
+            "Devolver Digital"
+        ],
+        "Price": "7.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tomb_raider_goty",
+        "Name": "Tomb Raider GOTY",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Survival"
+        ],
+        "Companies": [
+            "Crystal Dynamics"
+        ],
+        "Price": "7.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/lego_pirates_of_the_caribbean_the_video_game",
+        "Name": "LEGO\u00ae Pirates of the Caribbean: The Video Game",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "Companies": [
+            "Traveller's Tales",
+            "Disney"
+        ],
+        "Price": "14.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/konung_3_ties_of_the_dynasty",
+        "Name": "Konung 3: Ties of the Dynasty",
+        "Genre": [
+            "Adventure",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Fulqrum Publishing"
+        ],
+        "Price": "2.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/just_cause_2_complete_edition",
+        "Name": "Just Cause 2 - Complete Edition",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Open World"
+        ],
+        "Companies": [
+            "Avalanche Studios",
+            "Square Enix"
+        ],
+        "Price": "9.98 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/still_life_2",
+        "Name": "Still Life 2",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "GameCO Studios",
+            "Microids"
+        ],
+        "Price": "1.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/mirrors_edge",
+        "Name": "Mirror's Edge\u2122",
+        "Genre": [
+            "Action",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "DICE",
+            "Electronic Arts"
+        ],
+        "Price": "24.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tomb_raider_underworld",
+        "Name": "Tomb Raider: Underworld",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Crystal Dynamics"
+        ],
+        "Price": "5.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/void_the",
+        "Name": "The Void",
+        "Genre": [
+            "Adventure",
+            "FPP",
+            "Horror"
+        ],
+        "Companies": [
+            "Ice-Pick Lodge"
+        ],
+        "Price": "3.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sinking_island",
+        "Name": "Sinking Island",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Mystery"
+        ],
+        "Companies": [
+            "White Birds Productions",
+            "Microids"
+        ],
+        "Price": "1.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/driver_parallel_lines",
+        "Name": "Driver\u00ae: Parallel Lines",
+        "Genre": [
+            "Racing",
+            "Action",
+            "Rally"
+        ],
+        "Companies": [
+            "Ubisoft"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sid_meiers_civilization_iv_the_complete_edition",
+        "Name": "Sid Meier's Civilization IV\u00ae: The Complete Edition",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Modern"
+        ],
+        "Companies": [
+            "Firaxis Games",
+            "2K Games"
+        ],
+        "Price": "11.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/codename_panzers_phase_two",
+        "Name": "Codename Panzers: Phase Two",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Historical"
+        ],
+        "Companies": [
+            "Stormregion",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "6.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/desert_law",
+        "Name": "Desert Law",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Tactical"
+        ],
+        "Companies": [
+            "Arise",
+            "Fulqrum Publishing"
+        ],
+        "Price": "2.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/psychonauts",
+        "Name": "Psychonauts",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Double Fine Productions"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/swat_4_gold_edition",
+        "Name": "SWAT 4: Gold Edition",
+        "Genre": [
+            "Action",
+            "Simulation",
+            "Tactical"
+        ],
+        "Companies": [
+            "Irrational Games",
+            "Activision"
+        ],
+        "Price": "16.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/second_sight",
+        "Name": "Second Sight",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Free Radical Design",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "5.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/disciples_2_gold",
+        "Name": "Disciples 2 Gold",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Strategy First"
+        ],
+        "Price": "9.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/heroes_of_might_and_magic_4_complete",
+        "Name": "Heroes of Might and Magic\u00ae 4: Complete",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "New World Computing, Inc.",
+            "Ubisoft"
+        ],
+        "Price": "19.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/beyond_divinity",
+        "Name": "Beyond Divinity",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Larian Studios"
+        ],
+        "Price": "3.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/syberia_2",
+        "Name": "Syberia II",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Microids"
+        ],
+        "Price": "3.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/iron_storm",
+        "Name": "Iron Storm",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "4X Studio",
+            "Microids"
+        ],
+        "Price": "0.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sid_meiers_civilization_iii_complete",
+        "Name": "Sid Meier's Civilization\u00ae III Complete",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Modern"
+        ],
+        "Companies": [
+            "Firaxis Games",
+            "2K Games"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/anachronox",
+        "Name": "Anachronox",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Ion Storm Inc.",
+            "Square Enix"
+        ],
+        "Price": "1.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tachyon_the_fringe",
+        "Name": "Tachyon: The Fringe",
+        "Genre": [
+            "Simulation",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "NovaLogic Inc.",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/imperium_galactica_ii_alliances",
+        "Name": "Imperium Galactica II: Alliances",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Digital Reality Software",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tomb_raider_the_last_revelation_chronicles",
+        "Name": "Tomb Raider: The Last Revelation + Chronicles",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Core Design",
+            "Crystal Dynamics"
+        ],
+        "Price": "4.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_wheel_of_time",
+        "Name": "The Wheel of Time",
+        "Genre": [
+            "Action",
+            "FPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Legend Entertainment",
+            "Night Dive Studios"
+        ],
+        "Price": "10.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/silver",
+        "Name": "Silver",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Infogrames Europe SA",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "3.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/jagged_alliance_2",
+        "Name": "Jagged Alliance 2",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Modern"
+        ],
+        "Companies": [
+            "Sir-Tech Software",
+            "Strategy First"
+        ],
+        "Price": "3.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_episode_i_racer",
+        "Name": "STAR WARS\u2122 Episode I: Racer",
+        "Genre": [
+            "Racing",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "LucasArts",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/oddworld_abes_exoddus",
+        "Name": "Oddworld: Abe's Exoddus",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Oddworld Inhabitants"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tom_clancys_rainbow_six",
+        "Name": "Tom Clancy's Rainbow Six\u00ae",
+        "Genre": [
+            "Shooter",
+            "TPP",
+            "Tactical"
+        ],
+        "Companies": [
+            "Red Storm Entertainment",
+            "Ubisoft"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_rebellion",
+        "Name": "STAR WARS\u2122 Rebellion",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_jedi_knight_dark_forces_ii",
+        "Name": "STAR WARS\u2122 Jedi Knight: Dark Forces II",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/carmageddon_max_pack",
+        "Name": "Carmageddon Max Pack",
+        "Genre": [
+            "Action",
+            "Combat",
+            "Rally"
+        ],
+        "Companies": [
+            "Stainless Software",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_xwing_vs_tie_fighter",
+        "Name": "STAR WARS\u2122: X-Wing vs. TIE Fighter",
+        "Genre": [
+            "Action",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/gex",
+        "Name": "Gex",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Crystal Dynamics",
+            "Square Enix"
+        ],
+        "Price": "3.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/crusader_no_regret",
+        "Name": "Crusader: No Regret\u2122",
+        "Genre": [
+            "Action",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Origin Systems",
+            "Electronic Arts"
+        ],
+        "Price": "7.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/quake_the_offering",
+        "Name": "Quake",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Horror"
+        ],
+        "Companies": [
+            "id Software",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "12.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/ultima_underworld_1_2",
+        "Name": "Ultima\u2122 Underworld 1+2",
+        "Genre": [
+            "Role-playing",
+            "FPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Blue Sky Productions",
+            "Electronic Arts"
+        ],
+        "Price": "14.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/f117a_nighthawk_stealth_fighter_20",
+        "Name": "F-117A Nighthawk Stealth Fighter 2.0",
+        "Genre": [
+            "Simulation",
+            "Combat",
+            "Historical"
+        ],
+        "Companies": [
+            "MicroProse",
+            "Atari"
+        ],
+        "Price": "1.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/front_mission_2_remake",
+        "Name": "FRONT MISSION 2: Remake",
+        "Genre": [
+            "Action",
+            "Strategy",
+            "Tactical"
+        ],
+        "Companies": [
+            "Storm Trident S.A.",
+            "Forever Entertainment S. A."
+        ],
+        "Price": "68.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_dark_forces_remaster",
+        "Name": "STAR WARS\u2122: Dark Forces Remaster",
+        "Genre": [
+            "Action",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Nightdive Studios, LucasArts",
+            "Nightdive Studios"
+        ],
+        "Price": "62.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/robocop_rogue_city_alex_murphy_edition",
+        "Name": "RoboCop: Rogue City - Alex Murphy Edition",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Teyon",
+            "Nacon"
+        ],
+        "Price": "99.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous_the_lord_of_nothing",
+        "Name": "Pathfinder: Wrath of the Righteous - The Lord of Nothing",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Owlcat Games",
+            "Owlcat Games, META Publishing"
+        ],
+        "Price": "24.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/returning_to_mia",
+        "Name": "Returning To Mia",
+        "Genre": [
+            "Adventure",
+            "Visual Novel",
+            "Narrative"
+        ],
+        "Companies": [
+            "Inceton games"
+        ],
+        "Price": "28.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_excavation_of_hobs_barrow",
+        "Name": "The Excavation of Hob's Barrow",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Cloak and Dagger Games",
+            "Wadjet Eye Games"
+        ],
+        "Price": "17.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/inscryption",
+        "Name": "Inscryption",
+        "Genre": [
+            "Adventure",
+            "Card Game",
+            "Horror"
+        ],
+        "Companies": [
+            "Daniel Mullins Games",
+            "Devolver Digital"
+        ],
+        "Price": "25.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous",
+        "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Owlcat Games",
+            "META Publishing"
+        ],
+        "Price": "36.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/pathfinder_wrath_of_the_righteous_mythic_edition",
+        "Name": "Pathfinder: Wrath of the Righteous - Mythic Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Owlcat Games",
+            "META Publishing"
+        ],
+        "Price": "80.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/psychonauts_2",
+        "Name": "Psychonauts 2",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Comedy"
+        ],
+        "Companies": [
+            "Double Fine Productions",
+            "Xbox Game Studios"
+        ],
+        "Price": "62.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/class_of_09",
+        "Name": "Class of '09",
+        "Genre": [
+            "Role-playing",
+            "Visual Novel",
+            "Comedy"
+        ],
+        "Companies": [
+            "SBN3",
+            "MediBang Inc."
+        ],
+        "Price": "10.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/yakuza_complete_series",
+        "Name": "Yakuza Complete Series",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Narrative"
+        ],
+        "Companies": [
+            "Ryu Ga Gotoku Studio",
+            "SEGA"
+        ],
+        "Price": "225.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/vampire_the_masquerade_shadows_of_new_york",
+        "Name": "Vampire: The Masquerade - Shadows of New York",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Horror"
+        ],
+        "Companies": [
+            "Draw Distance",
+            "Dear Villagers"
+        ],
+        "Price": "4.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/kingdoms_of_amalur_rereckoning_fate_edition",
+        "Name": "Kingdoms of Amalur: Re-Reckoning FATE Edition",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "KAIKO, Big Huge Games",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "33.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/doom_64",
+        "Name": "DOOM 64",
+        "Genre": [
+            "Action",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "id Software / Nightdive Studios",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "3.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/atom_rpg_postapocalyptic_indie_game",
+        "Name": "ATOM RPG: Post-apocalyptic indie game",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "AtomTeam"
+        ],
+        "Price": "8.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/aven_colony",
+        "Name": "Aven Colony",
+        "Genre": [
+            "Strategy",
+            "Simulation",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Mothership Entertainment",
+            "Team17 Digital"
+        ],
+        "Price": "5.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/everspace",
+        "Name": "EVERSPACE\u2122",
+        "Genre": [
+            "Action",
+            "Simulation",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "ROCKFISH Games GmbH"
+        ],
+        "Price": "8.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/worms_wmd",
+        "Name": "Worms W.M.D",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Tactical"
+        ],
+        "Companies": [
+            "Team17 Digital Ltd.",
+            "Team17 Digital LTD."
+        ],
+        "Price": "14.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/goosebumps_the_game",
+        "Name": "Goosebumps: The Game",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Horror"
+        ],
+        "Companies": [
+            "WayForward",
+            "GameMill Entertainment"
+        ],
+        "Price": "2.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/alien_isolation_collection",
+        "Name": "Alien: Isolation Collection",
+        "Genre": [
+            "Action",
+            "Survival",
+            "Horror"
+        ],
+        "Companies": [
+            "Creative Assembly",
+            "SEGA"
+        ],
+        "Price": "60.07 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/huniepop",
+        "Name": "HuniePop",
+        "Genre": [
+            "Simulation",
+            "Role-playing",
+            "Puzzle"
+        ],
+        "Companies": [
+            "HuniePot"
+        ],
+        "Price": "3.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/double_dragon_trilogy",
+        "Name": "Double Dragon Trilogy",
+        "Genre": [
+            "Action",
+            "Arcade",
+            "Fighting"
+        ],
+        "Companies": [
+            "DotEmu"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/lords_of_the_fallen_game_of_the_year_edition",
+        "Name": "Lords of the Fallen Game of the Year Edition",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "CI Games, Deck 13",
+            "CI Games"
+        ],
+        "Price": "5.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dungeon_of_the_endless_definitive_edition",
+        "Name": "Dungeon of the ENDLESS\u2122 - Definitive Edition",
+        "Genre": [
+            "Strategy",
+            "Role-playing",
+            "Roguelike"
+        ],
+        "Companies": [
+            "AMPLITUDE Studios",
+            "SEGA"
+        ],
+        "Price": "7.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/xcom_enemy_unknown_complete_pack",
+        "Name": "XCOM: Enemy Unknown Complete Pack",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Firaxis Games",
+            "2K Games"
+        ],
+        "Price": "24.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/bioshock_infinite",
+        "Name": "BioShock Infinite Complete Edition",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Irrational Games",
+            "2K Games"
+        ],
+        "Price": "25.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sniper_ghost_warrior_2",
+        "Name": "Sniper: Ghost Warrior 2",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Stealth"
+        ],
+        "Companies": [
+            "City Interactive",
+            "CI Games"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_cave",
+        "Name": "The Cave",
+        "Genre": [
+            "Adventure",
+            "Puzzle",
+            "Platformer"
+        ],
+        "Companies": [
+            "Double Fine Productions"
+        ],
+        "Price": "6.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/worms_revolution",
+        "Name": "Worms Revolution Gold Edition",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Fighting"
+        ],
+        "Companies": [
+            "Team17 Digital Ltd.",
+            "Team17 Digital LTD."
+        ],
+        "Price": "6.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/testament_of_sherlock_holmes_the",
+        "Name": "The Testament of Sherlock Holmes",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Frogwares"
+        ],
+        "Price": "5.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/torchlight_ii",
+        "Name": "Torchlight II",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Runic Games Inc."
+        ],
+        "Price": "6.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/secret_files_3",
+        "Name": "Secret Files 3",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Modern"
+        ],
+        "Companies": [
+            "Animation Arts",
+            "Ravenscourt"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/rayman_origins",
+        "Name": "Rayman Origins",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Ubisoft"
+        ],
+        "Price": "12.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/alien_breed_trilogy",
+        "Name": "Alien Breed Trilogy",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Team17 Software",
+            "Team17 Digital LTD."
+        ],
+        "Price": "3.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/gothic_3_forsaken_gods",
+        "Name": "Gothic 3: Forsaken Gods Enhanced Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Trine Games & G3 Community Patch Team",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "4.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/lego_indiana_jones_2_the_adventure_continues",
+        "Name": "LEGO\u00ae Indiana Jones\u2122 2: The Adventure Continues",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "Companies": [
+            "Traveller's Tales",
+            "Disney"
+        ],
+        "Price": "14.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/saboteur",
+        "Name": "The Saboteur\u2122",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Stealth"
+        ],
+        "Companies": [
+            "Pandemic Studios",
+            "Electronic Arts"
+        ],
+        "Price": "24.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/secret_files_2_puritas_cordis",
+        "Name": "Secret Files 2: Puritas Cordis",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Modern"
+        ],
+        "Companies": [
+            "Animation Arts",
+            "Ravenscourt"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/brutal_legend",
+        "Name": "Brutal Legend",
+        "Genre": [
+            "Action",
+            "Strategy",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Double Fine Productions"
+        ],
+        "Price": "6.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/spore_collection",
+        "Name": "SPORE\u2122 Collection",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Maxis Software Inc.",
+            "Electronic Arts"
+        ],
+        "Price": "73.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/warhammer_mark_of_chaos_gold_edition",
+        "Name": "Warhammer: Mark of Chaos - Gold Edition",
+        "Genre": [
+            "Role-playing",
+            "Real-time",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Black Hole Entertainment",
+            "Games Workshop"
+        ],
+        "Price": "12.25 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/just_cause",
+        "Name": "Just Cause",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Open World"
+        ],
+        "Companies": [
+            "Avalanche Studios",
+            "Square Enix"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/hitman_blood_money",
+        "Name": "Hitman: Blood Money",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Stealth"
+        ],
+        "Companies": [
+            "Io-Interactive"
+        ],
+        "Price": "4.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/quake_4",
+        "Name": "Quake 4",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "RavenSoft / id Software",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "10.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/voyage_journey_to_the_moon",
+        "Name": "Voyage: Journey to the Moon",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Microids"
+        ],
+        "Price": "0.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/borderzone",
+        "Name": "BorderZone",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Saturn-plus, Orion",
+            "Fulqrum Publishing"
+        ],
+        "Price": "2.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_bards_tale",
+        "Name": "The Bard's Tale ARPG: Remastered and Resnarkled",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "inXile Entertainment"
+        ],
+        "Price": "7.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/soldiers_heroes_of_world_war_ii",
+        "Name": "Soldiers: Heroes of World War II",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Tactical"
+        ],
+        "Companies": [
+            "Best Way",
+            "Fulqrum Publishing"
+        ],
+        "Price": "2.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/crusader_kings_complete",
+        "Name": "Crusader Kings Complete",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Historical"
+        ],
+        "Companies": [
+            "Paradox Development Studio",
+            "Paradox Interactive"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/hitman_contracts",
+        "Name": "Hitman 3: Contracts",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Stealth"
+        ],
+        "Companies": [
+            "Io-Interactive"
+        ],
+        "Price": "4.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/age_of_wonders_shadow_magic",
+        "Name": "Age of Wonders: Shadow Magic",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Triumph Studios",
+            "Paradox Interactive"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/legacy_of_kain_defiance",
+        "Name": "Legacy of Kain: Defiance",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Platformer"
+        ],
+        "Companies": [
+            "Crystal Dynamics"
+        ],
+        "Price": "4.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/chicago_1930_the_prohibition",
+        "Name": "Chicago 1930: The Prohibition",
+        "Genre": [
+            "Strategy",
+            "Real-time"
+        ],
+        "Companies": [
+            "Spellbound",
+            "Microids"
+        ],
+        "Price": "0.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tron_20",
+        "Name": "TRON 2.0",
+        "Genre": [
+            "Action",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Monolith Productions",
+            "Disney"
+        ],
+        "Price": "8.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tomb_raider_the_angel_of_darkness",
+        "Name": "Tomb Raider: The Angel of Darkness",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Core Design",
+            "Crystal Dynamics"
+        ],
+        "Price": "2.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/arx_fatalis",
+        "Name": "Arx Fatalis",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Arkane Studios",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "2.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/stronghold_crusader",
+        "Name": "Stronghold Crusader HD",
+        "Genre": [
+            "Strategy",
+            "Building",
+            "Historical"
+        ],
+        "Companies": [
+            "FireFly Studios"
+        ],
+        "Price": "3.40 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/legacy_of_kain_blood_omen_2",
+        "Name": "Legacy of Kain: Blood Omen 2",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Platformer"
+        ],
+        "Companies": [
+            "Crystal Dynamics"
+        ],
+        "Price": "4.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_trek_armada_ii",
+        "Name": "Star Trek\u2122: Armada II",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Mad Doc Software",
+            "Activision"
+        ],
+        "Price": "39.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/legacy_of_kain_soul_reaver_2",
+        "Name": "Legacy of Kain: Soul Reaver 2",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Platformer"
+        ],
+        "Companies": [
+            "Crystal Dynamics"
+        ],
+        "Price": "4.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/conquest_frontier_wars",
+        "Name": "Conquest: Frontier Wars",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Fever Pitch Studios"
+        ],
+        "Price": "4.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_starfighter",
+        "Name": "STAR WARS\u2122 Starfighter\u2122",
+        "Genre": [
+            "Shooter",
+            "Simulation",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/daikatana",
+        "Name": "Daikatana",
+        "Genre": [
+            "Action",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Ion Storm Inc.",
+            "Square Enix"
+        ],
+        "Price": "1.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/gunship",
+        "Name": "Gunship!",
+        "Genre": [
+            "Simulation",
+            "Action",
+            "Historical"
+        ],
+        "Companies": [
+            "MicroProse",
+            "Atari"
+        ],
+        "Price": "4.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_rogue_squadron_3d",
+        "Name": "STAR WARS\u2122: Rogue Squadron 3D",
+        "Genre": [
+            "Action",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/xcom_apocalypse",
+        "Name": "X-Com: Apocalypse",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "MicroProse",
+            "2K Games"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/maui_mallard_in_cold_shadow",
+        "Name": "Maui Mallard in Cold Shadow",
+        "Genre": [
+            "Action",
+            "Arcade",
+            "Platformer"
+        ],
+        "Companies": [
+            "Disney Interactive Studios",
+            "Disney"
+        ],
+        "Price": "10.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/harvester",
+        "Name": "Harvester",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Horror"
+        ],
+        "Companies": [
+            "DigiFX Interactive",
+            "Lee Jacobson"
+        ],
+        "Price": "2.98 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/albion",
+        "Name": "Albion",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Blue Byte Studio",
+            "Ubisoft"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dragonview",
+        "Name": "Dragonview",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Infogrames Studios",
+            "Atari"
+        ],
+        "Price": "6.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/legend_of_kyrandia_malcolms_revenge",
+        "Name": "The Legend of Kyrandia: Malcolm's Revenge (Book Three)",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Westwood Studios",
+            "Electronic Arts"
+        ],
+        "Price": "7.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/syndicate",
+        "Name": "Syndicate Plus\u2122",
+        "Genre": [
+            "Action",
+            "Real-time",
+            "Tactical"
+        ],
+        "Companies": [
+            "Bullfrog Productions",
+            "Electronic Arts"
+        ],
+        "Price": "7.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/ultima_7_complete",
+        "Name": "Ultima\u2122 7 The Complete Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Origin Systems",
+            "Electronic Arts"
+        ],
+        "Price": "14.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/legend_of_kyrandia",
+        "Name": "The Legend of Kyrandia (Book One)",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Westwood Studios",
+            "Electronic Arts"
+        ],
+        "Price": "7.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/ultima_456",
+        "Name": "Ultima\u2122 4+5+6",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Origin Systems",
+            "Electronic Arts"
+        ],
+        "Price": "14.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_moto_racer_collection",
+        "Name": "The Moto Racer Collection",
+        "Genre": [
+            "Racing",
+            "Action",
+            "Rally"
+        ],
+        "Companies": [
+            "Delphine Software",
+            "Microids"
+        ],
+        "Price": "2.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/starship_troopers_terran_command_urban_onslaught",
+        "Name": "Starship Troopers: Terran Command - Urban Onslaught",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Tactical"
+        ],
+        "Companies": [
+            "The Artistocrats",
+            "Slitherine Ltd."
+        ],
+        "Price": "34.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/songs_of_conquest",
+        "Name": "Songs of Conquest",
+        "Genre": [
+            "Role-playing",
+            "Strategy",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Lavapotion",
+            "Coffee Stain Publishing"
+        ],
+        "Price": "56.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/last_hope_bunker_zombie_survival",
+        "Name": "Last Hope Bunker: Zombie Survival",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Survival"
+        ],
+        "Companies": [
+            "ArtDock"
+        ],
+        "Price": "3.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/shadow_gambit_yukis_wish",
+        "Name": "Shadow Gambit: Yuki\u2019s Wish",
+        "Genre": [
+            "Adventure",
+            "Strategy",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Mimimi Games"
+        ],
+        "Price": "38.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/shadow_gambit_zagans_ritual",
+        "Name": "Shadow Gambit: Zagan\u2019s Ritual",
+        "Genre": [
+            "Adventure",
+            "Strategy",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Mimimi Games"
+        ],
+        "Price": "38.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/jagged_alliance_3",
+        "Name": "Jagged Alliance 3",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Modern"
+        ],
+        "Companies": [
+            "Haemimont Games",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "60.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/age_of_wonders_4_premium_edition",
+        "Name": "Age of Wonders 4: Premium Edition",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Triumph Studios",
+            "Paradox Interactive"
+        ],
+        "Price": "303.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/x4_community_of_planets_edition",
+        "Name": "X4: Community of Planets Edition",
+        "Genre": [
+            "Simulation",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Egosoft"
+        ],
+        "Price": "103.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/mechwarrior_5_rise_of_rasalhague",
+        "Name": "MechWarrior 5: Mercenaries - Rise of Rasalhague",
+        "Genre": [
+            "Simulation",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Piranha Games Inc."
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/scorn",
+        "Name": "Scorn",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Horror"
+        ],
+        "Companies": [
+            "Ebb Software",
+            "Kepler Interactive"
+        ],
+        "Price": "19.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/mortal_shell_digital_deluxe_edition",
+        "Name": "Mortal Shell - Digital Deluxe Edition",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Cold Symmetry",
+            "Playstack"
+        ],
+        "Price": "9.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/syberia_the_world_before",
+        "Name": "Syberia: The World Before",
+        "Genre": [
+            "Adventure",
+            "Puzzle",
+            "Exploration"
+        ],
+        "Companies": [
+            "Microids Studio Paris",
+            "Microids"
+        ],
+        "Price": "18.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/space_accident",
+        "Name": "SPACE ACCIDENT",
+        "Genre": [
+            "Adventure",
+            "Puzzle",
+            "Exploration"
+        ],
+        "Companies": [
+            "Whale Rock Games"
+        ],
+        "Price": "4.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/neuragun",
+        "Name": "NeuraGun",
+        "Genre": [
+            "Adventure",
+            "Puzzle",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Whale Rock Games"
+        ],
+        "Price": "2.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/alfred_hitchcock_vertigo_digital_deluxe_edition",
+        "Name": "Alfred Hitchcock - Vertigo - Digital Deluxe Edition",
+        "Genre": [
+            "Adventure",
+            "Visual Novel",
+            "Narrative"
+        ],
+        "Companies": [
+            "Pendulo Studios",
+            "Microids"
+        ],
+        "Price": "12.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/inquisitors_heart_and_soul",
+        "Name": "Inquisitor\u2019s Heart and Soul",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Whale Rock Games"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/polyclassic_wild",
+        "Name": "PolyClassic: Wild",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Shoot 'em Up"
+        ],
+        "Companies": [
+            "Whale Rock Games"
+        ],
+        "Price": "3.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/blade_of_darkness",
+        "Name": "Blade of Darkness",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Rebel Act Studios, Fire Falcom, General Arcade",
+            "SNEG"
+        ],
+        "Price": "11.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/agatha_christie_hercule_poirot_the_first_cases",
+        "Name": "Agatha Christie - Hercule Poirot: The First Cases",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Blazing Griffin",
+            "Microids"
+        ],
+        "Price": "10.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/kings_bounty_ii_dukes_edition",
+        "Name": "King's Bounty II - Duke's Edition",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Fulqrum Games",
+            "Fulqrum Publishing, Prime Matter, \u65b9\u5757\u6e38\u620f"
+        ],
+        "Price": "25.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_forgotten_city",
+        "Name": "The Forgotten City",
+        "Genre": [
+            "Adventure",
+            "Role-playing",
+            "Exploration"
+        ],
+        "Companies": [
+            "Modern Storyteller",
+            "Dear Villagers"
+        ],
+        "Price": "16.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/scarlet_hood_and_the_wicked_wood_deluxe_edition",
+        "Name": "Scarlet Hood and the Wicked Wood - Deluxe Edition",
+        "Genre": [
+            "Adventure",
+            "Visual Novel",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Devespresso Games",
+            "Headup, WhisperGames"
+        ],
+        "Price": "3.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/cyberpunk2077_piggyback_interactive_map",
+        "Name": "Cyberpunk 2077 - Piggyback Interactive Map",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Piggyback Interactive Limited"
+        ],
+        "Price": "24.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/destroy_all_humans",
+        "Name": "Destroy All Humans!",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Black Forest Games, Pandemic Studios",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "17.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/divinity_original_sin_the_source_saga",
+        "Name": "Divinity: Original Sin - The Source Saga",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Larian Studios"
+        ],
+        "Price": "34.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/disco_elysium_the_final_cut_bundle",
+        "Name": "Disco Elysium - The Final Cut Bundle",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "ZA/UM"
+        ],
+        "Price": "25.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/bloodstained_ritual_of_the_night_igas_back_pack",
+        "Name": "Bloodstained: IGA's Back Pack",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Metroidvania"
+        ],
+        "Companies": [
+            "ArtPlay",
+            "505 Games"
+        ],
+        "Price": "10.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/vambrace_cold_soul",
+        "Name": "Vambrace: Cold Soul",
+        "Genre": [
+            "Adventure",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Devespresso Games",
+            "Headup"
+        ],
+        "Price": "4.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_hong_kong_massacre",
+        "Name": "The Hong Kong Massacre",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Shoot 'em Up"
+        ],
+        "Companies": [
+            "VRESKI",
+            "Untold Tales"
+        ],
+        "Price": "10.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/gris",
+        "Name": "GRIS",
+        "Genre": [
+            "Adventure",
+            "Puzzle",
+            "Platformer"
+        ],
+        "Companies": [
+            "Nomada Studio",
+            "Devolver Digital"
+        ],
+        "Price": "11.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/rimworld",
+        "Name": "RimWorld",
+        "Genre": [
+            "Simulation",
+            "Strategy",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Ludeon Studios"
+        ],
+        "Price": "63.94 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/mark_of_the_ninja_remastered",
+        "Name": "Mark of the Ninja: Remastered",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Stealth"
+        ],
+        "Companies": [
+            "Klei Entertainment"
+        ],
+        "Price": "11.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/i_am_not_a_monster_first_contact",
+        "Name": "I am not a Monster: First Contact",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Cheerdealers",
+            "Alawar"
+        ],
+        "Price": "3.40 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_bards_tale_trilogy",
+        "Name": "The Bard's Tale Trilogy",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Krome Studios",
+            "inXile Entertainment"
+        ],
+        "Price": "5.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/kingdom_come_deliverance",
+        "Name": "Kingdom Come: Deliverance",
+        "Genre": [
+            "Adventure",
+            "Role-playing",
+            "Historical"
+        ],
+        "Companies": [
+            "Warhorse Studios",
+            "Warhorse Studios / Prime Matter"
+        ],
+        "Price": "29.79 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/attack_of_the_earthlings",
+        "Name": "Attack of the Earthlings",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Comedy"
+        ],
+        "Companies": [
+            "Team Junkfish"
+        ],
+        "Price": "5.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/bridge_constructor_portal",
+        "Name": "Bridge Constructor Portal",
+        "Genre": [
+            "Simulation",
+            "Building",
+            "Managerial"
+        ],
+        "Companies": [
+            "ClockStone",
+            "Headup"
+        ],
+        "Price": "2.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/darkest_dungeon_the_shieldbreaker",
+        "Name": "Darkest Dungeon\u00ae: The Shieldbreaker",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Red Hook Studios"
+        ],
+        "Price": "2.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/pyre",
+        "Name": "Pyre",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Supergiant Games"
+        ],
+        "Price": "17.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/darkest_dungeon_the_crimson_court",
+        "Name": "Darkest Dungeon\u00ae: The Crimson Court",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Red Hook Studios"
+        ],
+        "Price": "5.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/syberia_3_the_complete_journey",
+        "Name": "Syberia 3: The Complete Journey",
+        "Genre": [
+            "Adventure",
+            "TPP",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Microids"
+        ],
+        "Price": "5.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/battle_brothers",
+        "Name": "Battle Brothers",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Historical"
+        ],
+        "Companies": [
+            "Overhype Studios"
+        ],
+        "Price": "34.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/xcom_2_resistance_warrior_pack",
+        "Name": "XCOM 2: Resistance Warrior Pack",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Firaxis Games",
+            "2K Games"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/steamworld_heist",
+        "Name": "SteamWorld Heist",
+        "Genre": [
+            "Role-playing",
+            "Strategy",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Image and Form"
+        ],
+        "Price": "2.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/momodora_reverie_under_the_moonlight",
+        "Name": "Momodora: Reverie Under the Moonlight",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Metroidvania"
+        ],
+        "Companies": [
+            "Bombservice",
+            "PLAYISM"
+        ],
+        "Price": "7.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/battlevoid_harbinger",
+        "Name": "Battlevoid: Harbinger",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Bugbyte Ltd."
+        ],
+        "Price": "3.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_witness",
+        "Name": "The Witness",
+        "Genre": [
+            "Adventure",
+            "Puzzle",
+            "Open World"
+        ],
+        "Companies": [
+            "Number None"
+        ],
+        "Price": "14.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/king_of_dragon_pass",
+        "Name": "King of Dragon Pass",
+        "Genre": [
+            "Strategy",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "A Sharp",
+            "HeroCraft"
+        ],
+        "Price": "3.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/frozen_cortex",
+        "Name": "Frozen Cortex",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Mode 7"
+        ],
+        "Price": "4.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/hyperdimension_neptunia_rebirth1",
+        "Name": "Hyperdimension Neptunia Re;Birth1",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Idea Factory International"
+        ],
+        "Price": "8.62 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/witcher_adventure_game",
+        "Name": "The Witcher Adventure Game",
+        "Genre": [
+            "Adventure",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Can Explode",
+            "CD PROJEKT RED"
+        ],
+        "Price": "4.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/door_kickers",
+        "Name": "Door Kickers",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Tactical"
+        ],
+        "Companies": [
+            "KillHouse Games"
+        ],
+        "Price": "7.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/splatter_zombiecalypse_now",
+        "Name": "Splatter - Zombiecalypse Now",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Shoot 'em Up"
+        ],
+        "Companies": [
+            "Dreamworlds",
+            "Untold Tales"
+        ],
+        "Price": "2.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/wolfenstein_the_two_pack",
+        "Name": "Wolfenstein: The Two Pack",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Machine Games",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "25.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/return_to_mysterious_island_2",
+        "Name": "Return to Mysterious Island 2",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Mystery"
+        ],
+        "Companies": [
+            "Kheops Studio",
+            "Microids"
+        ],
+        "Price": "1.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/banished",
+        "Name": "Banished",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Historical"
+        ],
+        "Companies": [
+            "Shining Rock Software"
+        ],
+        "Price": "12.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/steamworld_dig",
+        "Name": "SteamWorld Dig",
+        "Genre": [
+            "Action",
+            "Puzzle",
+            "Platformer"
+        ],
+        "Companies": [
+            "Image and Form"
+        ],
+        "Price": "2.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/secret_files_sam_peters",
+        "Name": "Secret Files: Sam Peters",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Modern"
+        ],
+        "Companies": [
+            "Animation Arts",
+            "Ravenscourt"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/divinity_dragon_commander_imperial_edition",
+        "Name": "Divinity: Dragon Commander Imperial Edition",
+        "Genre": [
+            "Strategy",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Larian Studios"
+        ],
+        "Price": "16.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/leisure_suit_larry_reloaded",
+        "Name": "Leisure Suit Larry: Reloaded",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Modern"
+        ],
+        "Companies": [
+            "Replay Games"
+        ],
+        "Price": "3.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/hotline_miami",
+        "Name": "Hotline Miami",
+        "Genre": [
+            "Action",
+            "Arcade",
+            "Fighting"
+        ],
+        "Companies": [
+            "Dennaton Games",
+            "Devolver Digital"
+        ],
+        "Price": "6.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dishonored_definitive_edition",
+        "Name": "Dishonored - Definitive Edition",
+        "Genre": [
+            "Action",
+            "FPP",
+            "Stealth"
+        ],
+        "Companies": [
+            "Arkane Studios",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "14.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/doom_3",
+        "Name": "DOOM 3",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Horror"
+        ],
+        "Companies": [
+            "id Software",
+            "Bethesda Softworks LLC"
+        ],
+        "Price": "15.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/lego_star_wars_the_clone_wars",
+        "Name": "LEGO\u00ae Star Wars\u2122 III - The Clone Wars\u2122",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "Companies": [
+            "Traveller's Tales",
+            "Disney"
+        ],
+        "Price": "14.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/two_worlds_2_epic_edition",
+        "Name": "Two Worlds II: Epic Edition",
+        "Genre": [
+            "Action",
+            "Role-playing",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Reality Pump Studios",
+            "TopWare Interactive"
+        ],
+        "Price": "14.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_the_force_unleashed_ii",
+        "Name": "STAR WARS\u2122: The Force Unleashed\u2122 II",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "LucasArts",
+            "Disney"
+        ],
+        "Price": "20.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sherlock_holmes_nemesis_remastered",
+        "Name": "Sherlock Holmes: Nemesis - Remastered",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Frogwares"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wolves_3_civil_war",
+        "Name": "Star Wolves 3: Civil War",
+        "Genre": [
+            "Strategy",
+            "Role-playing",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Elite Games Team",
+            "Fulqrum Publishing"
+        ],
+        "Price": "3.40 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/heavy_rain",
+        "Name": "Heavy Rain",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Narrative"
+        ],
+        "Companies": [
+            "Quantic Dream"
+        ],
+        "Price": "14.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/kings_bounty_crossworlds_goty",
+        "Name": "King's Bounty: Crossworlds GOTY",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Katauri Interactive",
+            "Fulqrum Publishing"
+        ],
+        "Price": "7.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_the_force_unleashed_ultimate_sith_edition",
+        "Name": "STAR WARS\u2122 - The Force Unleashed\u2122 Ultimate Sith Edition",
+        "Genre": [
+            "Action",
+            "TPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "LucasArts",
+            "Disney"
+        ],
+        "Price": "20.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/secret_files_tunguska",
+        "Name": "Secret Files: Tunguska",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Modern"
+        ],
+        "Companies": [
+            "Animation Arts",
+            "Ravenscourt"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/torchlight",
+        "Name": "Torchlight",
+        "Genre": [
+            "Role-playing",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Runic Games Inc."
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/overlord_ii",
+        "Name": "Overlord II",
+        "Genre": [
+            "Strategy",
+            "Action",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Triumph Studios",
+            "Codemasters"
+        ],
+        "Price": "3.40 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dracula_origin",
+        "Name": "Dracula Origin",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Puzzle"
+        ],
+        "Companies": [
+            "Frogwares"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/assassins_creed_directors_cut",
+        "Name": "Assassin's Creed\u00ae: Director's Cut",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Historical"
+        ],
+        "Companies": [
+            "Ubisoft Montreal",
+            "Ubisoft"
+        ],
+        "Price": "17.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tomb_raider_anniversary",
+        "Name": "Tomb Raider: Anniversary",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Crystal Dynamics"
+        ],
+        "Price": "5.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/flatout_2",
+        "Name": "FlatOut 2",
+        "Genre": [
+            "Racing",
+            "Arcade",
+            "Off-road"
+        ],
+        "Companies": [
+            "Bugbear Entertainment",
+            "Strategy First"
+        ],
+        "Price": "7.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/painkiller",
+        "Name": "Painkiller Black Edition",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Horror"
+        ],
+        "Companies": [
+            "People Can Fly",
+            "Prime Matter"
+        ],
+        "Price": "10.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/act_of_war_gold_edition",
+        "Name": "Act of War: Gold Edition",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Modern"
+        ],
+        "Companies": [
+            "Eugen Systems",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "7.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/star_wars_knights_of_the_old_republic_ii_the_sith_lords",
+        "Name": "STAR WARS\u2122 Knights of the Old Republic\u2122 II: The Sith Lords\u2122",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "32.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/shadow_ops_red_mercury",
+        "Name": "Shadow Ops: Red Mercury",
+        "Genre": [
+            "Action",
+            "Real-time",
+            "FPP"
+        ],
+        "Companies": [
+            "Zombie Studios",
+            "Atari"
+        ],
+        "Price": "4.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_i_of_the_dragon",
+        "Name": "The I of the Dragon",
+        "Genre": [
+            "Role-playing",
+            "Simulation",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Primal",
+            "TopWare Interactive"
+        ],
+        "Price": "5.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/warhammer_40000_fire_warrior",
+        "Name": "Warhammer 40,000: Fire Warrior",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Kuju",
+            "Chilled Mouse"
+        ],
+        "Price": "7.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/indiana_jones_and_the_emperors_tomb",
+        "Name": "Indiana Jones\u00ae and the Emperor's Tomb\u2122",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fighting"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/i_g_i_2_covert_strike",
+        "Name": "I.G.I. 2: Covert Strike",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Stealth"
+        ],
+        "Companies": [
+            "Innerloop Studios",
+            "Codemasters"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/hitman_2_silent_assassin",
+        "Name": "Hitman 2: Silent Assassin",
+        "Genre": [
+            "Action",
+            "Simulation",
+            "Stealth"
+        ],
+        "Companies": [
+            "Io-Interactive"
+        ],
+        "Price": "4.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/mafia",
+        "Name": "Mafia Classic",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Open World"
+        ],
+        "Companies": [
+            "Illusion Softworks",
+            "2K Games"
+        ],
+        "Price": "8.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/age_of_wonders_2_the_wizards_throne",
+        "Name": "Age of Wonders 2: The Wizard's Throne",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Triumph Studios",
+            "Paradox Interactive"
+        ],
+        "Price": "8.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/syberia",
+        "Name": "Syberia",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Detective-mystery"
+        ],
+        "Companies": [
+            "Microids"
+        ],
+        "Price": "3.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/freedom_force",
+        "Name": "Freedom Force",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Tactical"
+        ],
+        "Companies": [
+            "Irrational Games",
+            "2K Games"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/arcanum_of_steamworks_and_magick_obscura",
+        "Name": "Arcanum: Of Steamworks and Magick Obscura",
+        "Genre": [
+            "Role-playing",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Troika Games",
+            "Activision"
+        ],
+        "Price": "11.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/alone_in_the_dark_the_new_nightmare",
+        "Name": "Alone in the Dark: The New Nightmare",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Horror"
+        ],
+        "Companies": [
+            "DarkWorks S.A.",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "3.49 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/serious_sam_the_first_encounter",
+        "Name": "Serious Sam: The First Encounter",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Croteam",
+            "Devolver Digital"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/konung_1_2",
+        "Name": "Konung 1 + 2",
+        "Genre": [
+            "Role-playing",
+            "Strategy",
+            "Fantasy"
+        ],
+        "Companies": [
+            "1C Company",
+            "Fulqrum Publishing"
+        ],
+        "Price": "4.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/hitman_codename_47",
+        "Name": "Hitman: Codename 47",
+        "Genre": [
+            "Action",
+            "Simulation",
+            "Stealth"
+        ],
+        "Companies": [
+            "Io-Interactive"
+        ],
+        "Price": "4.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/metal_fatigue",
+        "Name": "Metal Fatigue",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Zono Inc.",
+            "Night Dive Studios"
+        ],
+        "Price": "3.09 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/age_of_wonders",
+        "Name": "Age of Wonders",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Triumph Studios",
+            "Paradox Interactive"
+        ],
+        "Price": "6.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/dracula_trilogy",
+        "Name": "Dracula Trilogy",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Horror"
+        ],
+        "Companies": [
+            "Microids"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/panzer_general_3d_assault",
+        "Name": "Panzer General 3D Assault",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Historical"
+        ],
+        "Companies": [
+            "Strategic Simulations",
+            "Ubisoft"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/independence_war_deluxe",
+        "Name": "Independence War\u2122 Deluxe",
+        "Genre": [
+            "Simulation",
+            "Combat",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Particle Systems Ltd.",
+            "Atari"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/commandos_ammo_pack",
+        "Name": "Commandos Ammo Pack",
+        "Genre": [
+            "Strategy",
+            "Real-time",
+            "Tactical"
+        ],
+        "Companies": [
+            "Pyro Studios",
+            "Kalypso Media Digital"
+        ],
+        "Price": "5.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/blood_2_the_chosen_expansion",
+        "Name": "Blood 2: The Blood Group",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Horror"
+        ],
+        "Companies": [
+            "Monolith Productions",
+            "Atari"
+        ],
+        "Price": "2.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/tender_loving_care",
+        "Name": "Tender Loving Care",
+        "Genre": [
+            "Role-playing",
+            "Simulation",
+            "Virtual life"
+        ],
+        "Companies": [
+            "Aftermath Media",
+            "Trilobyte Games"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/wing_commander_5_prophecy",
+        "Name": "Wing Commander\u2122 5: Prophecy Gold Edition",
+        "Genre": [
+            "Shooter",
+            "Action",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Origin Systems",
+            "Electronic Arts"
+        ],
+        "Price": "14.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/oddworld_abes_oddysee",
+        "Name": "Oddworld: Abe's Oddysee",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "Companies": [
+            "Oddworld Inhabitants"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sensible_world_of_soccer_9697",
+        "Name": "Sensible World of Soccer 96/97",
+        "Genre": [
+            "Sports",
+            "Simulation",
+            "Soccer"
+        ],
+        "Companies": [
+            "Sensible Software",
+            "Codemasters"
+        ],
+        "Price": "2.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/afterlife",
+        "Name": "Afterlife",
+        "Genre": [
+            "Simulation",
+            "Building",
+            "Managerial"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/eradicator",
+        "Name": "Eradicator",
+        "Genre": [
+            "Shooter",
+            "FPP",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "Accolade",
+            "Atari"
+        ],
+        "Price": "1.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/call_of_cthulhu_prisoner_of_ice",
+        "Name": "Call of Cthulhu: Prisoner of Ice",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Horror"
+        ],
+        "Companies": [
+            "Infogrames Europe SA",
+            "Atari"
+        ],
+        "Price": "2.39 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sid_meiers_colonization",
+        "Name": "Sid Meier's Colonization",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Managerial"
+        ],
+        "Companies": [
+            "MicroProse Software, Inc.",
+            "Atari"
+        ],
+        "Price": "3.59 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/legend_of_kyrandia_hand_of_fate",
+        "Name": "The Legend of Kyrandia: Hand of Fate (Book Two)",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Westwood Studios",
+            "Electronic Arts"
+        ],
+        "Price": "7.29 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/rex_nebular_and_the_cosmic_gender_bender",
+        "Name": "Rex Nebular and the Cosmic Gender Bender",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Sci-fi"
+        ],
+        "Companies": [
+            "MicroProse",
+            "Atari"
+        ],
+        "Price": "1.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/challenge_of_the_five_realms",
+        "Name": "Challenge of the Five Realms",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "MicroProse",
+            "Atari"
+        ],
+        "Price": "1.69 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/maniac_mansion",
+        "Name": "Maniac Mansion",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Comedy"
+        ],
+        "Companies": [
+            "Lucasfilm",
+            "Disney"
+        ],
+        "Price": "7.19 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/leisure_suit_larry",
+        "Name": "Leisure Suit Larry",
+        "Genre": [
+            "Adventure",
+            "Point-and-click",
+            "Modern"
+        ],
+        "Companies": [
+            "Sierra",
+            "Codemasters"
+        ],
+        "Price": "5.00 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/sandwalkers",
+        "Name": "Sandwalkers",
+        "Genre": [
+            "Adventure",
+            "Turn-based",
+            "Roguelike"
+        ],
+        "Companies": [
+            "Goblinz Studio",
+            "Goblinz Publishing"
+        ],
+        "Price": "53.90 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/age_of_wonders_4_eldritch_realms",
+        "Name": "Age of Wonders 4: Eldritch Realms",
+        "Genre": [
+            "Strategy",
+            "Turn-based",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Triumph Studios",
+            "Paradox Interactive"
+        ],
+        "Price": "84.99 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/alone_in_the_dark",
+        "Name": "Alone in the Dark",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Horror"
+        ],
+        "Companies": [
+            "Pieces Interactive",
+            "THQ Nordic GmbH"
+        ],
+        "Price": "106.89 BRL"
+    },
+    {
+        "URL": "https://www.gog.com/en/game/the_thaumaturge",
+        "Name": "The Thaumaturge",
+        "Genre": [
+            "Role-playing",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Companies": [
+            "Fool's Theory",
+            "11 bit studios"
+        ],
+        "Price": "68.29 BRL"
+    }
+]
